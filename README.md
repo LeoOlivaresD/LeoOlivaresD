@@ -1,4 +1,4 @@
-![FONDO!](https://i.ibb.co/Dzhgvg1/business-man-using-computer-hand-260nw-2059017617.jpg)
+![FONDO!](https://i.ibb.co/ZdxWbsS/business-man-using-computer-hand-260nw-2059017617.jpg)
 <h1 align="center">Hi 👋, I'm Leonardo Olivares</h1>
 <h3 align="center">Backend Developer</h3>
 
