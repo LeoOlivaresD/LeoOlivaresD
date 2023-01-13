@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Olivares</h1>
 <h3 align="center">Backend Developer</h3>
-![fondo](https://i.ibb.co/Dzhgvg1/business-man-using-computer-hand-260nw-2059017617.jpg "Header")
+![FONDO!](https://i.ibb.co/Dzhgvg1/business-man-using-computer-hand-260nw-2059017617.jpg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>
