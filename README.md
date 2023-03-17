@@ -1,6 +1,6 @@
 ![FONDO!](https://i.ibb.co/ZdxWbsS/business-man-using-computer-hand-260nw-2059017617.jpg)
 <h1 align="center">Hi 👋, I'm Leonardo Olivares</h1>
-<h3 align="center">Full stack Java Developer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
