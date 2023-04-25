@@ -1,4 +1,4 @@
-![FONDO!](https://i.ibb.co/ZdxWbsS/business-man-using-computer-hand-260nw-2059017617.jpg)
+![FONDO!][![Leonardo-Olivares.jpg](https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg)](https://postimg.cc/bDTRr8yF)
 <h1 align="center">Hola, bienvenido o bienvenida👋, Mi nombre es Leonardo Olivares</h1>
 <h3 align="center">Soy Desarrollador Full Stack Java</h3>
 
