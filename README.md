@@ -17,8 +17,9 @@ En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web media
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp; 
 <a href="https://api.whatsapp.com/send?phone=56930985129&text=Hola gracias por contactarme !" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5278464/234366290-e0fec985-338f-44e3-a028-aa3c00d74332.png" alt="https://api.whatsapp.com/send?phone=56930985129&text=Hola gracias por contactarme !" height="30" width="40" />  </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="mailto:olivares.d.leonardo@gmail.com" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/5278464/234367809-7e729afe-fa2e-4a53-9b4e-251b03fd69b8.png" alt="Enviar correo electrónico" height="30" width="40" />
-<a href="mailto:olivares.d.leonardo@gmail.com" target="_blank"> &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 </a><font color="white">olivares.d.leonardo@gmail.com</font>
 </p>
 <br>
