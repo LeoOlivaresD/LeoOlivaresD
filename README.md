@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5278464/234366290-e0fec985-338f-44e3-a028-aa3c00d74332.png" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg(https://user-images.githubusercontent.com/5278464/234366963-6b042aa5-765f-4479-a262-f2987b48443f.png))" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/5278464/234367809-7e729afe-fa2e-4a53-9b4e-251b03fd69b8.png"alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Estas son algunas de las tecnologías y herramientas con las que he trabajado:</h3>
