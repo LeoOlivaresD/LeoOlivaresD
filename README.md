@@ -2,17 +2,17 @@
 <h1 align="center">Hola, bienvenido o bienvenida👋, Mi nombre es Leonardo Olivares</h1>
 <h2 align="center">Soy Desarrollador Full Stack Java</h2>  
 <br>
-<p>Me inicie en el mundo de la programación tras dar un vuelco a mi carrera profesional, transisionandome desde el area de la salud al mundo IT con muchas ganas de aprender <br> y contribuir a grandes equipos con mi trabajo. <br>
-Para ello dia a dia trato de mejorar y adquirir nuevos conocimientos, que puedan hacerme destacar frente a la compentencia. <br>
-En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web mediante JEE y Spring Boot, pero por sobre todo la construcción de servicios REST API, realizando CRUDS y añadiendo <br> filtros de seguridad con Spring Security + JWT, tratando de seguir siempre las mejores practicas y contrucción de codigo limpio, ademas de hacer pruebas unitarias a mi codigo con el fin de no afectar <br> funcionalidades externas a él. <br>En cuanto a mi futuro deseo poder tener la capacidad de guiar y enseñar a los que lo necesiten con el fin de potenciar el redimiento de otros </p>
+<p>Me inicie en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando mi oficio desde el área de la salud al mundo IT con muchas ganas de aprender <br> y contribuir a grandes equipos con mi trabajo. <br>
+Para ello día a día trato de mejorar y adquirir nuevos conocimientos, que puedan hacerme destacar frente a la competencia. <br>
+En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web mediante JEE y Spring Boot, pero por sobre todo la construcción de servicios REST API, realizando CRUDS y añadiendo <br> filtros de seguridad con Spring Security + JWT, tratando de seguir siempre las mejores prácticas y construcción de código limpio, además de hacer pruebas unitarias a mi código con el fin de no afectar <br> funcionalidades externas a él. <br>En cuanto a mi futuro deseo poder tener la capacidad de guiar y enseñar a los que lo necesiten con el fin de potenciar el rendimiento de otros </p>
 <br>
- <h3> Aca puedes ver algunos de mis trabajos, cada uno con su repositorio disponible en esta plataforma </h3> <br>
+ <h3> Acá puedes ver algunos de mis trabajos, cada uno con su repositorio disponible en esta plataforma </h3> <br>
 <a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank"><img src="https://i.postimg.cc/LgtXRKjZ/Screenshot-144.png" alt="Personal web store"/></a>
 <a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank"><img src="https://i.postimg.cc/1gd4rK94/Screenshot-145.png" alt="Personal web store"/></a>
 <a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank"><img src="https://i.postimg.cc/BPP6tLFG/Screenshot-151.png" alt="Capacitacion empresas"/></a>
 <a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank"><img src="https://i.postimg.cc/XZ1BDbgj/Index-Your-Account.jpg" alt="Index-Your-Account"/></a>
 <a href='https://postimg.cc/hhHn1PHD' target='_blank'><img src='https://i.postimg.cc/hhHn1PHD/Api-rest-miniatura-yt.jpg' border='0' alt='Api-rest-miniatura-yt'/></a>
-<h3 align="left">Contactame en alguna de estas redes: </h3>
+<h3 align="left">Contáctame en alguna de estas redes: </h3>
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp; 
