@@ -15,7 +15,8 @@ En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web media
 <h3 align="left">Contáctame en alguna de estas redes: </h3>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCPuCGGyNlSat2TOkYIt3eSA" target="blank"><img align="center" src="https://i.postimg.cc/hGvLJj1M/logo-yt.png" alt="canal de youtube" height="35" width="40" /> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="mailto:olivares.d.leonardo@gmail.com" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/5278464/234367809-7e729afe-fa2e-4a53-9b4e-251b03fd69b8.png" alt="Enviar correo electrónico" height="30" width="40" />
 &nbsp;&nbsp;&nbsp;
