@@ -8,7 +8,6 @@ En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web media
 <br>
  <h3> Acá puedes ver algunos de mis trabajos, cada uno con su repositorio disponible en esta plataforma </h3> <br>
 <a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank"><img src="https://i.postimg.cc/LgtXRKjZ/Screenshot-144.png" alt="Personal web store"/></a>
-<a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank"><img src="https://i.postimg.cc/1gd4rK94/Screenshot-145.png" alt="Personal web store"/></a>
 <a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank"><img src="https://i.postimg.cc/BPP6tLFG/Screenshot-151.png" alt="Capacitacion empresas"/></a>
 <a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank"><img src="https://i.postimg.cc/XZ1BDbgj/Index-Your-Account.jpg" alt="Index-Your-Account"/></a>
 <a href='https://github.com/LeoOlivaresD/REST-API-youtube.git' target='_blank'><img src='https://i.postimg.cc/t7KZq5ZC/Spring-Boot-3.jpg' border='0' alt='Spring-Boot-3'/></a>
