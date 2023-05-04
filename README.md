@@ -11,7 +11,7 @@ En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web media
 <a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank"><img src="https://i.postimg.cc/BPP6tLFG/Screenshot-151.png" alt="Capacitacion empresas"/></a>
 <a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank"><img src="https://i.postimg.cc/XZ1BDbgj/Index-Your-Account.jpg" alt="Index-Your-Account"/></a>
 <a href='https://github.com/LeoOlivaresD/REST-API-youtube.git' target='_blank'><img src='https://i.postimg.cc/t7KZq5ZC/Spring-Boot-3.jpg' border='0' alt='Spring-Boot-3'/></a>
-<a href='https://github.com/LeoOlivaresD/Spring-Security-JWT.git' target='_blank'><img src='https://postimg.cc/tY1DN0zN' target='_blank'><img src='https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg' border='0' alt='Spring-Security-Jwt'/></a>'/></a>
+<a href='https://github.com/LeoOlivaresD/Spring-Security-JWT.git' target='_blank'><img src='https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg' border='0' alt='Spring-Security-Jwt'/></a>'/></a>
 <h3 align="left">Contáctame en alguna de estas redes: </h3>
 <br>
 <p align="left">
