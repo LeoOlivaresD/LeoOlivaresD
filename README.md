@@ -1,6 +1,6 @@
 [![Leonardo-Olivares.jpg](https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg)](https://postimg.cc/bDTRr8yF)
 <h1 align="center">Hola, bienvenido o bienvenida👋, Mi nombre es Leonardo Olivares</h1>
-<h2 align="center">Soy Desarrollador Backend Java</h2>  
+<h2 align="center">Soy Desarrollador Backend Java.</h2>  
 <br>
 <p>Me inicie en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando mi oficio desde el área de la salud al mundo IT con muchas ganas de aprender y contribuir a grandes equipos con mi trabajo. <br>
 Para ello día a día trato de mejorar y adquirir nuevos conocimientos, que me permitan evolucionar profesionalmente, documentando parte del proceso en mi canal de youtube "JavaDevs". <br>
