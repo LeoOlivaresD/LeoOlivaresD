@@ -1,5 +1,5 @@
 [![Leonardo-Olivares.jpg](https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg)](https://postimg.cc/bDTRr8yF)
-<h1 align="center">Hola, bienvenido o bienvenida👋, Mi nombre es Leonardo Olivares</h1>
+<h1 align="center">Hola, bienvenido o bienvenida👋, mi nombre es Leonardo Olivares</h1>
 <h2 align="center">Soy desarrollador backend java</h2>  
 <br>
 <p>Me inicie en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando mi oficio desde el área de la salud al mundo IT con muchas ganas de aprender y contribuir a grandes equipos con mi trabajo. <br>
