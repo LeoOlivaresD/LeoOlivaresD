@@ -1,45 +1,155 @@
-[![Leonardo-Olivares.jpg](https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg)](https://postimg.cc/bDTRr8yF)
-<h1 align="center">Hola, bienvenido o bienvenida👋, mi nombre es Leonardo Olivares</h1>
-<h2 align="center">Soy desarrollador backend java</h2>  
-<br>
-<p>Me inicie en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando mi oficio desde el área de la salud al mundo IT con muchas ganas de aprender y contribuir a grandes equipos con mi trabajo. <br>
-Para ello día a día trato de mejorar y adquirir nuevos conocimientos, que me permitan evolucionar profesionalmente, documentando parte del proceso en mi canal de youtube "JavaDevs". <br>
-En cuanto a mi experiencia me he dedicado a desarrollador aplicaciones web mediante JEE y Spring Boot, pero por sobre todo la construcción de servicios REST API, realizando CRUDS y añadiendo filtros de seguridad con Spring Security + JWT, tratando de seguir siempre las mejores prácticas y construcción de código limpio, además de hacer pruebas unitarias a mi código con el fin de no afectar funcionalidades externas a él.  <br>En cuanto a mi futuro deseo poder tener la capacidad de guiar y enseñar a los que lo necesiten con el fin de potenciar el desarrollo y rendimiento de otros. </p>
-<br>
- <h3> Acá puedes ver algunos de mis trabajos, cada uno con su repositorio disponible en esta plataforma </h3> <br>
-<a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank"><img src="https://i.postimg.cc/LgtXRKjZ/Screenshot-144.png" alt="Personal web store"/></a>
-<a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank"><img src="https://i.postimg.cc/BPP6tLFG/Screenshot-151.png" alt="Capacitacion empresas"/></a>
-<a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank"><img src="https://i.postimg.cc/XZ1BDbgj/Index-Your-Account.jpg" alt="Index-Your-Account"/></a>
-<a href='https://github.com/LeoOlivaresD/REST-API-youtube.git' target='_blank'><img src='https://i.postimg.cc/t7KZq5ZC/Spring-Boot-3.jpg' border='0' alt='Spring-Boot-3'/></a>
-<a href='https://github.com/LeoOlivaresD/Spring-Security-JWT.git' target='_blank'><img src='https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg' border='0' alt='Spring-Security-Jwt'/></a></a>
-<h3 align="left">Contáctame en alguna de estas redes: </h3>
-<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardo-olivares179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-olivares179/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCPuCGGyNlSat2TOkYIt3eSA" target="blank"><img align="center" src="https://i.postimg.cc/hGvLJj1M/logo-yt.png" alt="canal de youtube" height="35" width="40" /> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="mailto:olivares.d.leonardo@gmail.com" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/5278464/234367809-7e729afe-fa2e-4a53-9b4e-251b03fd69b8.png" alt="Enviar correo electrónico" height="30" width="40" />
-&nbsp;&nbsp;&nbsp;
-</a><font color="white">olivares.d.leonardo@gmail.com</font>
-</p>
-<br>
-<h3 align="left">Estas son algunas de las tecnologías y herramientas con las que he trabajado:</h3>  
-<br>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/fywgdWpb/logo-spring-boot.png" alt="spring boot" width="70" height="40"/> </a> 
-<a href="https://docs.spring.io/spring-security/reference/index.html" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/QC0YJGZJ/spring-security.png" alt="spring security" width="70" height="40"/> </a>
-<a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/VsRh8M00/jwt-logo.png" alt="jwt" width="70" height="40"/> </a>  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/KcnpxW4Y/api-rest-logo.png" alt="api rest" width="70" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40"/> </a> 
+<div align="center">
+  <img src="https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg" alt="Leonardo Olivares" width="200" style="border-radius: 50%"/>
+  
+  # 👋 Hola, soy Leonardo Olivares
+  ### Desarrollador Backend Java
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-olivares179/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPuCGGyNlSat2TOkYIt3eSA)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivares.d.leonardo@gmail.com)
+</div>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="40"/> </a> 
+---
 
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="40"/> </a>  
+## 🚀 Sobre mí
 
+Me inicié en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando desde el área de la salud al mundo IT con muchas ganas de aprender y contribuir a grandes equipos. 
 
- 
+Día a día trabajo en mejorar y adquirir nuevos conocimientos que me permitan evolucionar profesionalmente, documentando parte del proceso en mi canal de YouTube **"JavaDevs"**.
 
+### 💼 Experiencia
 
+- Desarrollo de aplicaciones web con **JEE** y **Spring Boot**
+- Construcción de servicios **REST API**
+- Implementación de CRUD operations
+- Seguridad con **Spring Security + JWT**
+- Pruebas unitarias para garantizar la calidad del código
+- Enfoque en código limpio y mejores prácticas
 
+### 🎯 Objetivo
+
+Mi objetivo es poder guiar y enseñar a quienes lo necesiten, potenciando el desarrollo y rendimiento de otros profesionales.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Web Store</h3>
+      <div align="center">
+        <a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank">
+          <img src="https://i.postimg.cc/LgtXRKjZ/Screenshot-144.png" width="400" alt="Personal web store"/>
+        </a>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/PersonalWebStore.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Capacitación Empresas</h3>
+      <div align="center">
+        <a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank">
+          <img src="https://i.postimg.cc/BPP6tLFG/Screenshot-151.png" width="400" alt="Capacitacion empresas"/>
+        </a>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/CapacitacionEmpresas.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Your Account</h3>
+      <div align="center">
+        <a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank">
+          <img src="https://i.postimg.cc/XZ1BDbgj/Index-Your-Account.jpg" width="400" alt="Your Account"/>
+        </a>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/YourAccount.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">REST API YouTube</h3>
+      <div align="center">
+        <a href="https://github.com/LeoOlivaresD/REST-API-youtube.git" target="_blank">
+          <img src="https://i.postimg.cc/t7KZq5ZC/Spring-Boot-3.jpg" width="400" alt="REST API"/>
+        </a>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/REST-API-youtube.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Spring Security + JWT</h3>
+      <div align="center">
+        <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
+          <img src="https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg" width="400" alt="Spring Security JWT"/>
+        </a>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoOlivaresD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoOlivaresD&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐️</i>
+  
+  ### 💬 ¡Conectemos y construyamos algo increíble juntos!
+</div>
