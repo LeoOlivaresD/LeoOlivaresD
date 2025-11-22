@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg" alt="Leonardo Olivares" width="200" style="border-radius: 50%"/>
+  <img src="https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg" alt="Leonardo Olivares Banner" width="100%"/>
   
   # 👋 Hola, soy Leonardo Olivares
   ### Desarrollador Backend Java
