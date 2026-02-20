@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://i.postimg.cc/fy4qHT6Z/Leonardo-Olivares.jpg" alt="Leonardo Olivares Banner" width="100%"/>
-  
+
   # 👋 Hola, soy Leonardo Olivares
-  ### Desarrollador Backend Java
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-olivares179/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPuCGGyNlSat2TOkYIt3eSA)
+  ### Desarrollador Backend Java · Spring Boot · AWS · Microservicios
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoolivares179/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JavaDevs-ky3jr)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivares.d.leonardo@gmail.com)
 </div>
 
@@ -13,44 +13,46 @@
 
 ## 🚀 Sobre mí
 
-Me inicié en el mundo de la programación tras dar un vuelco a mi carrera profesional, transicionando desde el área de la salud al mundo IT con muchas ganas de aprender y contribuir a grandes equipos. 
+Desarrollador Backend Java en transición planificada desde el área de la salud al mundo IT. Desde 2022 construyo aplicaciones con Java y Spring Boot, evolucionando hacia arquitecturas de microservicios, despliegue en AWS y automatización con CI/CD.
 
-Día a día trabajo en mejorar y adquirir nuevos conocimientos que me permitan evolucionar profesionalmente, documentando parte del proceso en mi canal de YouTube **"JavaDevs"**.
+Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso en mi canal de YouTube **JavaDevs**, donde desarrollo proyectos reales desde cero.
 
-### 💼 Experiencia
-
-- Desarrollo de aplicaciones web con **JEE** y **Spring Boot**
-- Construcción de servicios **REST API**
-- Implementación de CRUD operations
-- Seguridad con **Spring Security + JWT**
-- Pruebas unitarias para garantizar la calidad del código
-- Enfoque en código limpio y mejores prácticas
-
-### 🎯 Objetivo
-
-Mi objetivo es poder guiar y enseñar a quienes lo necesiten, potenciando el desarrollo y rendimiento de otros profesionales.
+- 🔭 Actualmente trabajando en arquitecturas con **Spring Cloud, RabbitMQ y AWS**
+- 🌱 Profundizando en **seguridad OAuth2/JWT, testing y buenas prácticas**
+- 🎯 Disponibilidad inmediata para roles **junior backend o cloud**
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Backend
+### Backend & Microservicios
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Frontend
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EC2/S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Base de Datos
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testing & Calidad
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+### Frontend & Herramientas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -59,6 +61,74 @@ Mi objetivo es poder guiar y enseñar a quienes lo necesiten, potenciando el des
 ## 📂 Proyectos Destacados
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Gestor de Archivos AWS</h3>
+      <div align="center">
+        <p>Microservicio Spring Boot para administración de archivos en AWS S3 con pipeline CI/CD completo, RabbitMQ, OAuth2/JWT y despliegue en EC2.</p>
+        <p>
+          <a href="https://github.com/LeoOlivaresD" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Arquitectura Microservicios Sistema Bancario</h3>
+      <div align="center">
+        <p>Arquitectura con Eureka Server, Spring Cloud Gateway, circuit breaker con Resilience4j y despliegue multi-contenedor Docker.</p>
+        <p>
+          <a href="https://github.com/LeoOlivaresD" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat&logo=spring&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Inventario de Smartphones</h3>
+      <div align="center">
+        <p>API REST con autenticación completa JWT, roles y refresh tokens. Documentado desde cero en el canal JavaDevs (+700 subs).</p>
+        <p>
+          <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Agencia de Viajes Oeste</h3>
+      <div align="center">
+        <p>Aplicación web con Next.js, SSR, TypeScript y validación dual cliente/servidor con Zod.</p>
+        <p>
+          <a href="https://github.com/LeoOlivaresD" target="_blank">
+            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Personal Web Store</h3>
@@ -115,23 +185,6 @@ Mi objetivo es poder guiar y enseñar a quienes lo necesiten, potenciando el des
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Spring Security + JWT</h3>
-      <div align="center">
-        <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
-          <img src="https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg" width="400" alt="Spring Security JWT"/>
-        </a>
-        <p>
-          <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
-            <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
 </table>
 
 ---
@@ -150,6 +203,6 @@ Mi objetivo es poder guiar y enseñar a quienes lo necesiten, potenciando el des
 
 <div align="center">
   <i>⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐️</i>
-  
+
   ### 💬 ¡Conectemos y construyamos algo increíble juntos!
 </div>
