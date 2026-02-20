@@ -67,7 +67,7 @@ Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso 
       <div align="center">
         <p>Microservicio Spring Boot para administración de archivos en AWS S3 con pipeline CI/CD completo, RabbitMQ, OAuth2/JWT y despliegue en EC2.</p>
         <p>
-          <a href="https://github.com/LeoOlivaresD" target="_blank">
+          <a href="https://github.com/LeoOlivaresD/Desarrollo_Cloud_Native_Gestor_de_archivos.git" target="_blank">
             <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
@@ -84,7 +84,7 @@ Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso 
       <div align="center">
         <p>Arquitectura con Eureka Server, Spring Cloud Gateway, circuit breaker con Resilience4j y despliegue multi-contenedor Docker.</p>
         <p>
-          <a href="https://github.com/LeoOlivaresD" target="_blank">
+          <a href="https://github.com/LeoOlivaresD/springbatch-aws-bancoxyz-eft.git" target="_blank">
             <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
@@ -100,7 +100,9 @@ Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso 
     <td width="50%">
       <h3 align="center">Inventario de Smartphones</h3>
       <div align="center">
-        <p>API REST con autenticación completa JWT, roles y refresh tokens. Documentado desde cero en el canal JavaDevs (+700 subs).</p>
+        <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
+          <img src="https://i.postimg.cc/tY1DN0zN/Spring-Security-Jwt.jpg" width="400" alt="Inventario Smartphones"/>
+        </a>
         <p>
           <a href="https://github.com/LeoOlivaresD/Spring-Security-JWT.git" target="_blank">
             <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -117,7 +119,7 @@ Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso 
       <div align="center">
         <p>Aplicación web con Next.js, SSR, TypeScript y validación dual cliente/servidor con Zod.</p>
         <p>
-          <a href="https://github.com/LeoOlivaresD" target="_blank">
+          <a href="https://github.com/LeoOlivaresD/agencia-viajes-nextjs-v2.git" target="_blank">
             <img src="https://img.shields.io/badge/VER_CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
@@ -192,17 +194,17 @@ Día a día trabajo en mejorar mis conocimientos y documentar parte del proceso 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoOlivaresD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeoOlivaresD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoOlivaresD&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeoOlivaresD&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
   <i>⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐️</i>
- 
+
   ### 💬 ¡Conectemos y construyamos algo increíble juntos!
 </div>
